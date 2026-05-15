@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	smb_files
+#open	2026-05-15-16-21-42
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	action	path	name	size	prev_name	times.modified	times.accessed	times.created	times.changed
+#types	time	string	addr	port	addr	port	string	enum	string	string	count	string	time	time	time	time
+1769555102.938051	CBChgi3WYjN1fJQOCg	10.1.21.58	50768	10.1.21.2	445	-	SMB::FILE_OPEN	\\\\WIN-LU4L24X3UB7\\Shared	<share_root>	65536	-	1769054694.389008	1769054695.404631	1769046614.993280	1769054694.389008
+#close	2026-05-15-16-21-42

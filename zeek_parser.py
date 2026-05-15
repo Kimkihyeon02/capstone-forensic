@@ -60,13 +60,13 @@ def safe_bool(val):
         return False
     return None
 
-def normalize_flow(record):
-    """conn.log → flow 스키마"""
+def normalize_flow(record, flow_id):
     src_ip = record.get("id.orig_h", "")
     dst_ip = record.get("id.resp_h", "")
     ts = record.get("ts", "")
 
     return {
+        "flow_id": f"flow_{flow_id:06d}",
         "uid": record.get("uid", None),
         "ts": safe_float(ts),
         "datetime": ts_to_datetime(ts),
@@ -130,13 +130,13 @@ def get_summary(log_name, record):
         return f"Zeek 비정상 이벤트: {name}"
     return ""
 
-def normalize_event(log_name, record):
-    """나머지 로그 → event 스키마"""
+def normalize_event(log_name, record, event_id):
     src_ip = record.get("id.orig_h", None)
     dst_ip = record.get("id.resp_h", None)
     ts = record.get("ts", "")
 
     return {
+        "event_id": f"event_{event_id:06d}",
         "uid": record.get("uid", None),
         "fuid": record.get("fuid", None),
         "ts": safe_float(ts),
@@ -162,7 +162,7 @@ def process_logs(log_dir, output_dir):
     if os.path.exists(conn_path):
         print("[PROCESSING] conn.log → flow 스키마")
         records = parse_zeek_log(conn_path)
-        normalized = [normalize_flow(r) for r in records]
+        normalized = [normalize_flow(r, i+1) for i, r in enumerate(records)]
         output_path = os.path.join(output_dir, "flows.json")
         with open(output_path, "w") as f:
             json.dump(normalized, f, indent=2, ensure_ascii=False)
@@ -173,6 +173,7 @@ def process_logs(log_dir, output_dir):
     # 나머지 로그 → event 스키마
     event_logs = ["dns.log", "ssl.log", "http.log", "files.log", "weird.log"]
     all_events = []
+    event_counter = 1
     for log_name in event_logs:
         log_path = os.path.join(log_dir, log_name)
         if not os.path.exists(log_path):
@@ -180,9 +181,10 @@ def process_logs(log_dir, output_dir):
             continue
         print(f"[PROCESSING] {log_name} → event 스키마")
         records = parse_zeek_log(log_path)
-        normalized = [normalize_event(log_name, r) for r in records]
-        all_events.extend(normalized)
-        print(f"[DONE] {log_name} → {len(normalized)}개 이벤트")
+        for r in records:
+            all_events.append(normalize_event(log_name, r, event_counter))
+            event_counter += 1
+        print(f"[DONE] {log_name} → {len(records)}개 이벤트")
 
     output_path = os.path.join(output_dir, "events.json")
     with open(output_path, "w") as f:

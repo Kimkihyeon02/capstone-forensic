@@ -1,0 +1,22 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ldap
+#open	2026-05-15-16-21-42
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	message_id	version	opcode	result	diagnostic_message	object	argument
+#types	time	string	addr	port	addr	port	int	int	string	string	string	string	string
+1769555045.791578	CJ50mC4Btu1XniuJZb	10.1.21.58	50753	10.1.21.2	389	11	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555064.276649	Cd52vWxVn83kmlwX9	10.1.21.58	50766	10.1.21.2	389	15	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555064.284281	CHMw082zZEbIJQozfh	10.1.21.58	50767	10.1.21.2	389	19	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555125.205527	CTnfVR6KgNtVuJyf4	10.1.21.58	64797	10.1.21.2	389	3	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555125.209821	CambMu7XACPyvWpBl	10.1.21.58	64798	10.1.21.2	389	9	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555365.749697	COpC5dxHu8gO5D75d	10.1.21.58	61843	10.1.21.2	389	3	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555365.763735	C8uWdS29MVVtbrjjx1	10.1.21.58	61845	10.1.21.2	389	8	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555410.977752	C4YK8c11U4fQOSKW2h	10.1.21.58	61848	10.1.21.2	389	3	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555410.984394	C1n2qvQBUyiucItTj	10.1.21.58	61849	10.1.21.2	389	9	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555498.824593	CpesAx38PlUnhss294	10.1.21.58	61854	10.1.21.2	389	3	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555498.878560	CgLRBl4Ql8Ed86bhy9	10.1.21.58	61855	10.1.21.2	389	8	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555633.101307	CkMVsB1ljSL8ZAoSt9	10.1.21.58	61859	10.1.21.2	389	3	3	bind SASL	success	-	-	GSS-SPNEGO
+1769555633.107035	Ct1BeD1s8x9oOVO8z7	10.1.21.58	61860	10.1.21.2	389	9	3	bind SASL	success	-	-	GSS-SPNEGO
+#close	2026-05-15-16-21-42

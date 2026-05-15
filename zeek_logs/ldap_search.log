@@ -1,0 +1,21 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ldap_search
+#open	2026-05-15-16-21-42
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	message_id	scope	deref_aliases	base_object	result_count	result	diagnostic_message	filter	attributes
+#types	time	string	addr	port	addr	port	int	string	string	string	count	string	string	string	vector[string]
+1769555045.688799	CJCaMj2o5Ps2NuLmh7	10.1.21.58	51087	10.1.21.2	389	64	base	never	-	1	success	-	(&(&(&(&(DnsDomain=win11office.com.)(Host=DESKTOP-ES9F3ML))(DomainGuid=e7100547-56bd-48e9-8c15-0ab2938dd8e6))(NtVer=0x20000016))(DnsHostName=DESKTOP-ES9F3ML.win11office.com))	-
+1769555045.688800	CJCaMj2o5Ps2NuLmh7	10.1.21.58	51087	10.1.21.2	389	65	base	never	-	1	success	-	(&(&(&(&(DnsDomain=win11office.com.)(Host=DESKTOP-ES9F3ML))(DomainGuid=e7100547-56bd-48e9-8c15-0ab2938dd8e6))(NtVer=0x20000016))(DnsHostName=DESKTOP-ES9F3ML.win11office.com))	-
+1769555045.790606	CJCaMj2o5Ps2NuLmh7	10.1.21.58	51087	10.1.21.2	389	66	base	never	-	1	success	-	(&(&(&(&(DnsDomain=win11office.com.)(Host=DESKTOP-ES9F3ML))(DomainGuid=e7100547-56bd-48e9-8c15-0ab2938dd8e6))(NtVer=0x20000016))(DnsHostName=DESKTOP-ES9F3ML.win11office.com))	-
+1769555052.863922	CjHa1M1o4tDYpTi5Yl	10.1.21.58	51668	10.1.21.2	389	67	base	never	-	1	success	-	(&(&(&(&(DnsDomain=win11office.com.)(Host=DESKTOP-ES9F3ML))(DomainGuid=e7100547-56bd-48e9-8c15-0ab2938dd8e6))(NtVer=0x20000016))(DnsHostName=DESKTOP-ES9F3ML.win11office.com))	-
+1769555064.109234	CL0bX01JnIsFl8b1Vj	10.1.21.58	51669	10.1.21.2	389	68	base	never	-	1	success	-	(&(&(&(&(DnsDomain=win11office.com.)(Host=DESKTOP-ES9F3ML))(DomainGuid=e7100547-56bd-48e9-8c15-0ab2938dd8e6))(NtVer=0x20000016))(DnsHostName=DESKTOP-ES9F3ML.win11office.com))	-
+1769555125.044467	C0BkvS391bV2YgmGUb	10.1.21.58	58222	10.1.21.2	389	69	base	never	-	1	success	-	(&(&(&(&(DnsDomain=win11office.com.)(Host=DESKTOP-ES9F3ML))(DomainGuid=e7100547-56bd-48e9-8c15-0ab2938dd8e6))(NtVer=0x00000016))(DnsHostName=DESKTOP-ES9F3ML.win11office.com))	-
+1769555125.203946	CTnfVR6KgNtVuJyf4	10.1.21.58	64797	10.1.21.2	389	1	base	never	-	1	success	-	(objectclass=*)	-
+1769555365.742612	COpC5dxHu8gO5D75d	10.1.21.58	61843	10.1.21.2	389	1	base	never	-	1	success	-	(objectclass=*)	-
+1769555410.976137	C4YK8c11U4fQOSKW2h	10.1.21.58	61848	10.1.21.2	389	1	base	never	-	1	success	-	(objectclass=*)	-
+1769555498.692373	CSX0Qo1rdoVM6D4Lq1	10.1.21.58	64753	10.1.21.2	389	70	base	never	-	1	success	-	(&(&(&(&(&(DnsDomain=win11office.com.)(Host=DESKTOP-ES9F3ML))(DomainSid=S-1-5-21-408266568-3947399335-3725113099))(DomainGuid=e7100547-56bd-48e9-8c15-0ab2938dd8e6))(NtVer=0x20000016))(DnsHostName=DESKTOP-ES9F3ML.win11office.com))	-
+1769555498.822216	CpesAx38PlUnhss294	10.1.21.58	61854	10.1.21.2	389	1	base	never	-	1	success	-	(objectclass=*)	-
+1769555633.099504	CkMVsB1ljSL8ZAoSt9	10.1.21.58	61859	10.1.21.2	389	1	base	never	-	1	success	-	(objectclass=*)	-
+#close	2026-05-15-16-21-42

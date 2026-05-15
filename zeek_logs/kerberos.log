@@ -1,0 +1,20 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	kerberos
+#open	2026-05-15-16-21-42
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	request_type	client	service	success	error_msg	from	till	cipher	forwardable	renewable	client_cert_subject	client_cert_fuid	server_cert_subject	server_cert_fuid
+#types	time	string	addr	port	addr	port	string	string	string	bool	string	time	time	string	bool	bool	string	string	string	string
+1769555064.099509	C9jByw3jNO17gMDP69	10.1.21.58	50757	10.1.21.2	88	AS	gwyatt/WIN11OFFICE	krbtgt/WIN11OFFICE	F	KDC_ERR_PREAUTH_REQUIRED	-	4.124486885e+09	-	T	T	-	-	-	-
+1769555064.106583	CsQQG92tqEBVKZUcvc	10.1.21.58	50758	10.1.21.2	88	AS	gwyatt/WIN11OFFICE	krbtgt/WIN11OFFICE.COM	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.109992	C8VLh210ltHUNHZbid	10.1.21.58	50759	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	host/desktop-es9f3ml.win11office.com	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.268226	CKqB2J1QBPeR1A7Iqi	10.1.21.58	50763	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	LDAP/WIN-LU4L24X3UB7.win11office.com/win11office.com	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.268311	C0cme23bVypxk0Eb2c	10.1.21.58	50764	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	cifs/WIN-LU4L24X3UB7.win11office.com	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.271414	CqCGK32ZfkfEG6wiAc	10.1.21.58	50765	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	krbtgt/WIN11OFFICE.COM	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.442008	CwRMLv4ibSs0GdUpDe	10.1.21.58	50769	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	cifs/WIN-LU4L24X3UB7	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.272943	CBwRbY300mIEfmVIa9	10.1.21.58	50761	10.1.21.2	445	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1769555172.721157	CFWEex10ACkWfFR1Nb	10.1.21.58	61840	10.1.21.2	445	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+1769555365.745282	CXr7H04aDzNZnZJOr3	10.1.21.58	61844	10.1.21.2	88	TGS	gwyatt/WIN11OFFICE.COM	ldap/win-lu4l24x3ub7.win11office.com	T	-	-	4.124486885e+09	aes256-cts-hmac-sha1-96	T	T	-	-	-	-
+1769555064.444215	CBChgi3WYjN1fJQOCg	10.1.21.58	50768	10.1.21.2	445	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+#close	2026-05-15-16-21-42

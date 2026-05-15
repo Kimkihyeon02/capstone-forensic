@@ -4,6 +4,7 @@ import sys
 import json
 from zeek_parser import process_logs
 from suricata_parser import process_suricata
+from detection import generate_detections
 
 def run_zeek(pcap_path, log_dir):
     print(f"[ZEEK] PCAP 분석 시작: {pcap_path}")
@@ -50,12 +51,17 @@ def main(pcap_path):
     eve_path = os.path.join(SURICATA_LOG_DIR, "eve.json")
     process_suricata(eve_path, OUTPUT_DIR)
 
+    # 5. Detection 생성
+    print(f"[DETECTION] Detection 생성 중")
+    generate_detections(OUTPUT_DIR)
+
     print("\n=============================")
     print("[DONE] 전체 파이프라인 완료!")
     print(f"output 폴더 확인: {OUTPUT_DIR}")
     print("  - flows.json")
     print("  - events.json")
     print("  - suricata_alerts.json")
+    print("  - detections.json")
     print("=============================")
 
 if __name__ == "__main__":

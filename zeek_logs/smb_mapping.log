@@ -1,0 +1,15 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	smb_mapping
+#open	2026-05-15-16-21-42
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	path	service	native_file_system	share_type
+#types	time	string	addr	port	addr	port	string	string	string	string
+1769555064.274405	CBwRbY300mIEfmVIa9	10.1.21.58	50761	10.1.21.2	445	\\\\WIN-LU4L24X3UB7.win11office.com\\IPC$	-	-	PIPE
+1769555064.445264	CBChgi3WYjN1fJQOCg	10.1.21.58	50768	10.1.21.2	445	\\\\WIN-LU4L24X3UB7\\Shared	-	-	DISK
+1769555071.405781	CBwRbY300mIEfmVIa9	10.1.21.58	50761	10.1.21.2	445	\\\\WIN-LU4L24X3UB7.win11office.com\\IPC$	-	-	PIPE
+1769555172.723656	CFWEex10ACkWfFR1Nb	10.1.21.58	61840	10.1.21.2	445	\\\\WIN-LU4L24X3UB7.win11office.com\\IPC$	-	-	PIPE
+1769555172.730132	CBChgi3WYjN1fJQOCg	10.1.21.58	50768	10.1.21.2	445	\\\\WIN-LU4L24X3UB7\\IPC$	-	-	PIPE
+1769555173.765420	CFWEex10ACkWfFR1Nb	10.1.21.58	61840	10.1.21.2	445	\\\\WIN-LU4L24X3UB7.win11office.com\\IPC$	-	-	PIPE
+#close	2026-05-15-16-21-42

@@ -1,0 +1,29 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2026-05-15-16-21-42
+#fields	ts	fuid	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	string	addr	port	addr	port	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1769555046.309351	FclN1BRgDsfISB8ni	CbD9jv4ek1d5jei491	10.1.21.58	50754	23.55.178.249	80	HTTP	0	(empty)	text/plain	-	0.000000	F	F	22	22	0	0	F	-	-	-	-	-	-	-
+1769555046.915372	FfhXxBXtaBERbidZh	CNtKMz3nNepHJ7QfL7	10.1.21.58	50755	20.3.4.127	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+1769555065.490363	Fp6qnh4bgeXv5EBk0a	ClpQTl4LMIuXyyRhuj	10.1.21.58	50771	20.190.157.9	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1769555066.814568	FaDmmHcV5jyduC2qe	C9djxx1QW5KCfPIij	10.1.21.58	57744	150.171.22.17	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1855	-	0	0	F	-	-	-	-	-	-	-
+1769555076.917617	FSmyqk3GaR9bUCOzsd	CNkRdf2LqU1VU90Mj1	10.1.21.58	63470	150.171.28.11	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+1769555079.014478	Fa4J9G18c76oy9mB16	CjqeMv2YnYbb2drxi3	10.1.21.58	62404	150.171.27.11	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+1769555126.693728	FS8Yw11fhIRcqzQsli	CqUXf92qmWuuhzv0h6	10.1.21.58	63802	150.171.28.11	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+1769555138.583105	FXGU0b1Nxzh3ti14P5	Caoz8s1GvknYFnJjs8	10.1.21.58	51553	142.250.115.113	80	HTTP	0	(empty)	text/plain	json.txt	0.000000	F	F	81	-	0	0	F	-	-	-	-	-	-	-
+1769555139.577412	FAUfAf3oxRUpF0gyqb	CNsoc91lOhJLPqbW0k	10.1.21.58	54492	153.92.1.49	80	HTTP	0	(empty)	text/html	-	0.000072	F	F	6552	-	0	0	F	-	-	-	-	-	-	-
+1769555140.196371	FWkH7l2duLzZWcHYEd	CNsoc91lOhJLPqbW0k	10.1.21.58	54492	153.92.1.49	80	HTTP	0	(empty)	text/plain	-	0.000450	T	T	8023	8023	0	0	F	-	-	-	-	-	-	-
+1769555140.514216	F3Sprd48ilgPQol4eh	CNsoc91lOhJLPqbW0k	10.1.21.58	54492	153.92.1.49	80	HTTP	0	(empty)	text/plain	-	0.000000	F	F	67	-	0	0	F	-	-	-	-	-	-	-
+1769555140.578128	FDpEkY3WrA4J5KZAal	CuFPn82jGWgDNgf0W9	10.1.21.58	59097	153.92.1.49	80	HTTP	0	(empty)	text/html	-	0.000000	F	F	555	-	0	0	F	-	-	-	-	-	-	-
+1769555146.648868	F9LinC1gk6l6ZiHI1h	CQnJ7L1WXtQmsgdaBd	10.1.21.58	53453	150.171.27.11	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+1769555147.406180	FfInhz2hSwMj7Ymh86	CiZmDhwxsRG3O9KJ7	10.1.21.58	49295	153.92.1.49	80	HTTP	0	(empty)	text/html	-	0.001747	F	F	6550	-	0	0	F	-	-	-	-	-	-	-
+1769555147.462793	Fy9B3TWgcxRiSoN59	CiZmDhwxsRG3O9KJ7	10.1.21.58	49295	153.92.1.49	80	HTTP	0	(empty)	text/plain	-	0.000349	T	T	7975	7975	0	0	F	-	-	-	-	-	-	-
+1769555147.792996	FgawFX2jyCrl6GtE28	CiZmDhwxsRG3O9KJ7	10.1.21.58	49295	153.92.1.49	80	HTTP	0	(empty)	text/plain	-	0.000000	F	F	67	-	0	0	F	-	-	-	-	-	-	-
+1769555147.868006	FNvxqPqWc8ZZ3kLw	Cl8IBY3D2hgJlx5Kc3	10.1.21.58	50943	153.92.1.49	80	HTTP	0	(empty)	text/html	-	0.000000	F	F	555	-	0	0	F	-	-	-	-	-	-	-
+1769555150.914725	F0DEDZ1CYQObrx5XH4	CdKCPo1aYYWSMQYIpk	10.1.21.58	50743	150.171.28.11	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+1769555150.949511	FdBQ701Q4fZhyadCW5	Ck52uSmNNTBKcWEof	10.1.21.58	61893	150.171.28.11	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+1769555665.390636	FSBDg3dDqPA8mUYJ4	CV103O2iKwbRtkeP2	10.1.21.58	61862	52.123.128.14	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+#close	2026-05-15-16-21-42

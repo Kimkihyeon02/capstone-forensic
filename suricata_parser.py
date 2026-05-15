@@ -36,7 +36,7 @@ def get_severity_str(severity_int):
     else:
         return "low"
 
-def normalize_alert(record):
+def normalize_alert(record, event_id):
     """Suricata alert → event 스키마"""
     alert = record.get("alert", {})
     http = record.get("http", {})
@@ -80,6 +80,7 @@ def normalize_alert(record):
         }
 
     return {
+        "event_id": f"event_s_{event_id:06d}",
         "uid": str(record.get("flow_id", "")),
         "fuid": None,
         "ts": None,
@@ -106,7 +107,7 @@ def process_suricata(eve_path, output_dir):
     alerts = parse_suricata_alerts(eve_path)
     print(f"[OK] {len(alerts)}개 alert 발견")
     
-    normalized = [normalize_alert(r) for r in alerts]
+    normalized = [normalize_alert(r, i+1) for i, r in enumerate(alerts)]
     
     output_path = os.path.join(output_dir, "suricata_alerts.json")
     with open(output_path, "w") as f:

@@ -1,0 +1,531 @@
+03/01/2026-04:55:09.819008  [**] [1:2031071:4] ET INFO Microsoft Connection Test [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:59982 -> 23.47.50.182:80
+03/01/2026-04:55:51.679800  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:55:51.679800  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:55:51.838383  [**] [1:2035895:6] ET INFO NetSupport Remote Admin Response [**] [Classification: Misc activity] [Priority: 3] {TCP} 45.131.214.85:443 -> 10.2.28.88:51912
+03/01/2026-04:55:51.887075  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:55:51.887075  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:55:52.237236  [**] [1:2035895:6] ET INFO NetSupport Remote Admin Response [**] [Classification: Misc activity] [Priority: 3] {TCP} 45.131.214.85:443 -> 10.2.28.88:51912
+03/01/2026-04:55:52.239184  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:55:52.239184  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:56:52.414979  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:56:52.414979  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:57:52.488778  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:57:52.488778  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:58:52.569808  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:58:52.569808  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:59:52.644829  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:59:52.644829  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:00:52.829091  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:00:52.829091  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:01:52.909105  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:01:52.909105  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:02:52.988882  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:02:52.988882  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:03:53.171691  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:03:53.171691  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:04:53.248121  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:04:53.248121  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:05:53.341867  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:05:53.341867  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:06:53.527608  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:06:53.527608  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:07:53.704193  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:07:53.704193  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:08:53.885740  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:08:53.885740  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:09:54.169723  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:09:54.169723  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:10:54.357037  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:10:54.357037  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:11:54.540182  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:11:54.540182  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:12:54.621585  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:12:54.621585  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:13:54.710932  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:13:54.710932  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:14:54.791287  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:14:54.791287  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:15:54.973952  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:15:54.973952  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:16:55.054192  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:16:55.054192  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:17:55.242770  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:17:55.242770  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:18:55.424122  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:18:55.424122  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:19:55.610480  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:19:55.610480  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:20:55.785189  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:20:55.785189  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:21:55.864599  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:21:55.864599  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:22:56.047563  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:22:56.047563  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:23:56.238291  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:23:56.238291  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:24:56.325429  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:24:56.325429  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:25:56.502724  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:25:56.502724  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:26:56.686353  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:26:56.686353  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:27:56.763111  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:27:56.763111  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:28:56.841226  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:28:56.841226  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:29:56.918161  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:29:56.918161  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:30:57.199733  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:30:57.199733  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:31:57.482499  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:31:57.482499  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:32:57.762718  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:32:57.762718  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:33:57.838190  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:33:57.838190  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:34:58.027071  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:34:58.027071  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:35:58.103928  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:35:58.103928  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:36:58.181207  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:36:58.181207  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:37:58.254890  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:37:58.254890  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:38:58.538695  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:38:58.538695  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:39:58.617078  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:39:58.617078  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:40:58.895398  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:40:58.895398  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:41:58.969498  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:41:58.969498  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:42:59.052392  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:42:59.052392  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:43:59.128329  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:43:59.128329  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:44:59.314674  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:44:59.314674  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:45:59.391459  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:45:59.391459  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:46:59.671755  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:46:59.671755  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:47:59.855266  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:47:59.855266  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:48:59.932808  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:48:59.932808  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:50:00.014422  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:50:00.014422  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:51:00.293171  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:51:00.293171  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:52:00.482508  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:52:00.482508  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:53:00.664029  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:53:00.664029  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:54:00.840115  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:54:00.840115  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:55:01.026436  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:55:01.026436  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:56:01.209424  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:56:01.209424  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:57:01.494297  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:57:01.494297  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:58:01.680132  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:58:01.680132  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:59:01.756998  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-05:59:01.756998  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:00:01.836109  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:00:01.836109  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:01:02.016390  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:01:02.016390  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:02:02.193438  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:02:02.193438  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:03:02.267979  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:03:02.267979  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:04:02.346251  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:04:02.346251  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:05:02.434609  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:05:02.434609  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:06:02.622011  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:06:02.622011  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:07:02.906152  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:07:02.906152  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:08:02.978745  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:08:02.978745  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:09:03.153840  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:09:03.153840  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:10:03.339051  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:10:03.339051  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:11:03.413051  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:11:03.413051  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:12:03.496376  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:12:03.496376  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:13:03.775678  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:13:03.775678  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:14:03.849644  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:14:03.849644  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:15:03.928214  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:15:03.928214  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:16:04.113665  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:16:04.113665  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:17:04.396144  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:17:04.396144  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:18:04.581390  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:18:04.581390  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:19:04.659887  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:19:04.659887  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:20:04.941180  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:20:04.941180  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:21:05.029350  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:21:05.029350  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:22:05.111314  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:22:05.111314  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:23:05.292537  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:23:05.292537  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:24:05.373603  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:24:05.373603  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:25:05.653637  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:25:05.653637  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:26:05.837308  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:26:05.837308  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:27:06.121449  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:27:06.121449  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:28:06.197122  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:28:06.197122  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:29:06.478922  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:29:06.478922  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:30:06.659362  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:30:06.659362  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:31:06.831037  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:31:06.831037  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:32:06.910079  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:32:06.910079  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:33:07.192150  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:33:07.192150  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:34:07.269845  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:34:07.269845  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:35:07.346288  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:35:07.346288  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:36:07.517458  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:36:07.517458  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:37:07.595834  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:37:07.595834  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:38:07.781575  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:38:07.781575  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:39:07.854868  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:39:07.854868  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:40:08.040209  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:40:08.040209  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:41:08.214581  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:41:08.214581  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:42:08.291412  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:42:08.291412  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:43:08.369511  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:43:08.369511  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:44:08.552277  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:44:08.552277  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:45:08.631918  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:45:08.631918  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:46:08.818427  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:46:08.818427  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:47:09.099002  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:47:09.099002  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:48:09.378944  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:48:09.378944  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:49:09.455847  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:49:09.455847  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:50:09.737224  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:50:09.737224  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:51:09.814988  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:51:09.814988  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:52:09.889375  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:52:09.889375  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:53:10.172659  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:53:10.172659  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:54:10.355876  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:54:10.355876  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:55:10.431111  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:55:10.431111  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:56:10.603065  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:56:10.603065  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:57:10.885872  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:57:10.885872  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:58:10.962450  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:58:10.962450  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:59:11.244115  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-06:59:11.244115  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:00:11.523492  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:00:11.523492  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:01:11.802734  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:01:11.802734  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:02:11.880299  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:02:11.880299  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:03:12.065580  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:03:12.065580  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:04:12.142379  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:04:12.142379  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:05:12.218352  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:05:12.218352  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:06:12.295803  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:06:12.295803  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:07:12.372881  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:07:12.372881  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:08:12.450547  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:08:12.450547  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:09:12.635172  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:09:12.635172  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:10:12.821056  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:10:12.821056  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:11:12.901864  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:11:12.901864  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:12:12.976781  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:12:12.976781  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:13:13.260024  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:13:13.260024  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:14:13.339356  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:14:13.339356  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:15:13.520724  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:15:13.520724  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:16:13.598516  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:16:13.598516  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:17:13.677357  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:17:13.677357  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:18:13.848060  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:18:13.848060  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:19:13.923252  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:19:13.923252  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:20:14.003997  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:20:14.003997  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:21:14.078502  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:21:14.078502  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:22:14.151934  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:22:14.151934  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:23:14.325117  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:23:14.325117  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:24:14.496184  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:24:14.496184  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:25:14.669034  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:25:14.669034  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:26:14.746148  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:26:14.746148  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:27:14.822896  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:27:14.822896  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:28:14.899946  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:28:14.899946  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:29:14.975981  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:29:14.975981  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:30:15.147984  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:30:15.147984  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:31:15.221073  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:31:15.221073  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:32:15.392937  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:32:15.392937  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:33:15.567471  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:33:15.567471  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:34:15.847138  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:34:15.847138  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:35:15.922627  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:35:15.922627  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:36:15.999323  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:36:15.999323  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:37:16.076193  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:37:16.076193  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:38:16.249469  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:38:16.249469  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:39:16.323687  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:39:16.323687  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:40:16.399528  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:40:16.399528  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:41:16.478496  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:41:16.478496  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:42:16.650496  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:42:16.650496  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:43:16.723994  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:43:16.723994  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:44:16.992247  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:44:16.992247  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:45:17.272662  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:45:17.272662  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:46:17.444724  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:46:17.444724  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:47:17.724788  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:47:17.724788  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:48:17.893720  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:48:17.893720  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:49:17.968298  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:49:17.968298  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:50:18.044312  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:50:18.044312  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:51:18.219746  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:51:18.219746  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:52:18.501736  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:52:18.501736  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:53:18.578766  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:53:18.578766  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:54:18.651502  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:54:18.651502  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:55:18.727453  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:55:18.727453  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:56:18.809691  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:56:18.809691  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:57:18.883630  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:57:18.883630  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:58:18.962210  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:58:18.962210  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:59:19.038390  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-07:59:19.038390  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:00:19.210780  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:00:19.210780  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:01:19.288355  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:01:19.288355  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:02:19.378397  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:02:19.378397  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:03:19.456942  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:03:19.456942  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:04:19.531443  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:04:19.531443  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:05:19.613136  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:05:19.613136  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:06:19.891897  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:06:19.891897  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:07:19.969302  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:07:19.969302  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:08:20.045635  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:08:20.045635  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:09:20.214176  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:09:20.214176  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:10:20.387467  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:10:20.387467  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:11:20.462169  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:11:20.462169  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:12:20.540563  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:12:20.540563  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:13:20.615717  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:13:20.615717  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:14:20.694353  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:14:20.694353  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:15:20.866865  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:15:20.866865  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:16:20.942695  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:16:20.942695  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:17:21.023916  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:17:21.023916  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:18:21.101345  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:18:21.101345  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:19:21.286557  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:19:21.286557  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:20:21.363880  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:20:21.363880  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:21:21.548062  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:21:21.548062  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:22:21.625817  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:22:21.625817  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:23:21.706899  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:23:21.706899  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:24:21.877560  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:24:21.877560  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:25:22.157847  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:25:22.157847  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:26:22.439089  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:26:22.439089  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:27:22.517114  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:27:22.517114  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:28:22.589416  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:28:22.589416  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:29:22.667209  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:29:22.667209  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:30:22.842687  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:30:22.842687  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:31:22.919061  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:31:22.919061  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:32:22.994385  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:32:22.994385  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:33:23.168870  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:33:23.168870  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:34:23.351029  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:34:23.351029  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:35:23.620783  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:35:23.620783  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:36:23.697829  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:36:23.697829  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:37:23.868615  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:37:23.868615  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:38:24.038312  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:38:24.038312  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:39:24.116417  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:39:24.116417  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:40:24.287378  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:40:24.287378  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:41:24.456859  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:41:24.456859  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:42:24.531819  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:42:24.531819  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:43:24.705427  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:43:24.705427  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:44:24.782094  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:44:24.782094  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:45:24.860118  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:45:24.860118  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:46:24.939301  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:46:24.939301  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:47:25.121831  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:47:25.121831  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:48:25.297391  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:48:25.297391  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:49:25.372408  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:49:25.372408  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:50:25.450594  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:50:25.450594  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:51:25.623411  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:51:25.623411  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:52:25.699870  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:52:25.699870  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:53:25.776009  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:53:25.776009  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:54:25.947654  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:54:25.947654  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:55:26.025211  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:55:26.025211  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:56:26.197517  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:56:26.197517  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:57:26.274358  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:57:26.274358  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:58:26.554188  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:58:26.554188  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:59:26.724856  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-08:59:26.724856  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:00:26.801005  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:00:26.801005  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:01:26.972731  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:01:26.972731  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:02:27.048658  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:02:27.048658  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:03:27.127272  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:03:27.127272  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:04:27.298001  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:04:27.298001  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:05:27.471004  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:05:27.471004  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:06:27.546591  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:06:27.546591  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:07:27.623077  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:07:27.623077  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:08:27.797827  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:08:27.797827  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:09:27.872453  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:09:27.872453  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:10:27.951362  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:10:27.951362  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:11:28.134789  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:11:28.134789  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:12:28.211576  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:12:28.211576  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:13:28.295040  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:13:28.295040  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:14:28.369309  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:14:28.369309  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:15:28.446507  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:15:28.446507  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:16:28.527212  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-09:16:28.527212  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:55:06.482909  [**] [1:2013926:10] ET POLICY HTTP traffic on port 443 (POST) [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443
+03/01/2026-04:55:06.482909  [**] [1:2035892:5] ET INFO NetSupport Remote Admin Checkin [**] [Classification: Misc activity] [Priority: 3] {TCP} 10.2.28.88:51912 -> 45.131.214.85:443

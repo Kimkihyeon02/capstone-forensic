@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	dhcp
+#open	2026-05-15-16-21-42
+#fields	ts	uids	client_addr	server_addr	mac	host_name	client_fqdn	domain	requested_addr	assigned_addr	lease_time	client_message	server_message	msg_types	duration
+#types	time	set[string]	addr	addr	string	string	string	string	addr	addr	interval	string	string	vector[string]	interval
+1769555043.908927	C9N4ij1vmLZ4eCEGqf,CwqC6MZsyglJTeAX3	10.1.21.58	10.1.21.1	00:21:5d:c8:0e:f2	DESKTOP-ES9F3ML	DESKTOP-ES9F3ML.win11office.com	mshome.net	10.1.21.58	10.1.21.58	604800.000000	-	-	DISCOVER,OFFER,REQUEST,ACK	0.024676
+#close	2026-05-15-16-21-42
